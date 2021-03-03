@@ -1,7 +1,8 @@
-package com.shekhar.demo.mvvmdatabindinglivedatademo
+package com.shekhar.demo.mvvmdatabindinglivedatademo.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.shekhar.demo.mvvmdatabindinglivedatademo.R
 
 class MainActivity : AppCompatActivity() {
 
